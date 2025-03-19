@@ -2,6 +2,7 @@
   "name": "pantheon-upstreams/upstream-configuration",
   "description": "Composer project template for the Apigee Developer Portal Drupal distribution.",
   "type": "project",
+  "version": "dev-main",
   "license": "GPL-2.0-or-later",
   "homepage": "https://www.drupal.org/project/apigee_devportal_kickstart",
   "support": {
